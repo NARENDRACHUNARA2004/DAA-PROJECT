@@ -1,0 +1,2 @@
+# DAA-PROJECT
+huffman code
